@@ -3,4 +3,4 @@ An .NET functions class library. featuring AES-256-CBC Encryption, SHA1, SHA256,
 
 ## UI Ellements
 
-(https://cdn.discordapp.com/attachments/341914782053695490/482910192414097426/unknown.png){ui}
+![UI](https://cdn.discordapp.com/attachments/341914782053695490/482910192414097426/unknown.png)
