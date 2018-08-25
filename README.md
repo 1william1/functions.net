@@ -78,7 +78,8 @@ Dim decoded = crypto.encoding.base64_decode("my string")
 #### Web
 settings
 ```
-useragent
+web.settings.useragent
+web.settings.self_proxy 'hide from programs like fiddler
 ```
 
 GET REQUEST
