@@ -21,7 +21,7 @@ An .NET functions class library. featuring AES-256-CBC Encryption, SHA1, SHA256,
 
 ## Install
 To use Functions.net in your project first add a refrence in the solution explorer to `FUNCTIONS.dll`
-```net
+```vb
 Imports FUNCTIONS.crypto
 
 Public class Form1
