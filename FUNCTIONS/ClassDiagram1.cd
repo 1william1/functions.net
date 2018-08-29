@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FUNCTIONS.A1_dragable_box" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAIAIQAAAAAAAAAAAAAAAAACAAAAAAAAAAABAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.A1_drag_control" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAIAIQAAAAAAAAAAAAAAAAACAAAAAAAAAAABAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.A1_drag_control_lable" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAIAIQAAAAAAAAAAAAAAAAACAAAAAAAAAAABAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.A1_drag_control_picture" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAIAIQAAAAAAAAAAAAAAAAACAAAAAAAAAAABAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.A1_CircularPictureBox" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.A1_Drag_control_CircularPictureBox" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAWAAAAIAIQAAAAAAAAAAAAAAAAACAAAAAAAAAAABAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.A1_AlertBox" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAIAAAAAAAAAACAAAAAAAABAgAAAAIAAAACAAAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.A1_GroupBox" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.A1_Button" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IADAAAAIAQAAAAAACABAAAAAAAAEAAAAIAAABAACAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.BonfireAlertBox" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAIAAAAAAAAAACAAAAAAAABAgAAAAIAAAACAAAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.BonfireTabControl" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.BonfireGroupBox" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.BonfireLabelHeader" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.BonfireLabel" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.BonfireProgressBar" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ui.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FUNCTIONS.ui" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
