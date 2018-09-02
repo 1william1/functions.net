@@ -80,12 +80,12 @@ Decrypt: AES256Decrypt(key, iv, encrypted_text)"
 
     Public Class hash
 
-        Public Function md5(str)
-            Using hasher As MD5 = md5.Create()    ' create hash object
+        Public Function md5_hash(str)
+            Using hasher As MD5 = MD5.Create()    ' create hash object
 
                 ' Convert to byte array and get hash
                 Dim dbytes As Byte() =
-                 hasher.ComputeHash(encoding.UTF8.GetBytes(str))
+                 hasher.ComputeHash(Encoding.UTF8.GetBytes(str))
 
                 ' sb to create string from bytes
                 Dim sBuilder As New StringBuilder()
@@ -163,7 +163,7 @@ Decrypt: AES256Decrypt(key, iv, encrypted_text)"
 
     Public Class crypto
         Public Property encryption As New encryption
-        Public Property hash As New hash
+        Public Property hash As hash
         Public Property encoding As New string_encoding
     End Class
 
